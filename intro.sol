@@ -53,4 +53,4 @@ high level statically typed programming language
 means (a) it  has to defined the datatypes at starting position
           not dynamically.
        (b)high case sensitive 
-       (c)updates get on documentation on site
+       (c)updates get on documentation on sites
