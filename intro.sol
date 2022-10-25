@@ -42,5 +42,8 @@ MAINNET AND TESTNET
    b) for netowrk ID is equal to 2, 3 and 42..
 
 
+//meta mask //
+its all part and extension 
 
-   
+
+
