@@ -29,3 +29,18 @@ fact about contract comilation..
 2)contract bytecode is readable and can be shown public to trust
 3)ABI is bridge between contract and application
 4)contract does'nt have to be public
+
+
+
+MAINNET AND TESTNET 
+1)mainnet -->
+   a)for main course online transection with real world ethereum 
+   b)usually netowrk ID is equal to 1
+   
+2)TESTNET -->
+   a) for testing purpose we use it with rinkeby test netowrk
+   b) for netowrk ID is equal to 2, 3 and 42..
+
+
+
+   
